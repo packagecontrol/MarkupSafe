@@ -24,14 +24,14 @@ with the following contents:
 {
    "*": {
       "*": [
-         "python-markupsafe"
+         "markupsafe"
       ]
    }
 }
 ```
 
 If the file exists already,
-add `"python-markupsafe"` to the every dependency list.
+add `"markupsafe"` to the every dependency list.
 
 Then run the **Package Control: Satisfy Dependencies** command
 to make Package Control
